@@ -2629,6 +2629,7 @@
   sub: DM
   note: 'Abstract deadline: April 14, 2023'
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=171978&copyownerid=179760
+  timezone: UTC-12
 - title: MM
   year: 2023
   id: mm23
@@ -2643,12 +2644,12 @@
   end: '2023-11-03'
   sub: CV
   note: Mandatory abstract deadline on April 23, 2023. More info <a href='https://www.acmmm2023.org/cfp/'>here</a>.
-- title: WSWC
+- title: ISWC
   year: 2023
   id: iswc23
   full_name: International Semantic Web Conference
   link: https://iswc2023.semanticweb.org/
-  deadline: 2023-05-02 23:59
+  deadline: 2023-05-09 23:59
   timezone: UTC-12
   place: Athens, Greece
   date: November 06-10, 2023
@@ -2712,7 +2713,7 @@
   end: '2023-11-03'
   sub: AD
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=173391&copyownerid=181135
-- title: SIGGRAPHASIAConf
+- title: SIGGRAPH Asia
   year: 2023
   id: siggraphasia23
   full_name: SIGGRAPH ASIA 2023
@@ -2770,7 +2771,7 @@
 - title: CIKM
   year: 2023
   id: cikm23
-  full_name: Conference on Information and Knowledge Management
+  full_name: International Conference on Information and Knowledge Managements
   link: https://cikm2023.github.io/
   deadline: 2023-06-02 23:59
   abstract_deadline: 2023-05-26 23:59
@@ -2880,10 +2881,10 @@
   year: 2023
   id: icdm23
   full_name: International Conference on Data Mining
-  link: http://www.cloud-conf.net/icdm2023/index.html
+  link: https://www.cloud-conf.net/icdm2023/
   deadline: 2023-07-01 23:59
   abstract_deadline: 2023-07-01 23:59
-  timezone: Etc/GMT+8
+  timezone: GMT+8
   place: Shanghai, China
   date: December 1 - 4, 2023
   start: '2023-12-01'
@@ -2946,3 +2947,88 @@
   start: '2024-02-05'
   end: '2024-02-07'
   sub: AD
+- title: CVPR
+  year: 2024
+  id: cvpr24
+  link: https://cvpr.thecvf.com/Conferences/2024
+  deadline: 2023-11-10 23:59
+  abstract_deadline: 2023-11-03 23:59
+  timezone: America/Los_Angeles
+  place: Seattle, Washington, USA
+  date: June 17 - 21, 2024
+  start: 2024-06-17
+  end: 2024-06-21
+  hindex: 389
+  sub: CV
+  full_name: Conference on Computer Vision and Pattern Recognition
+- title: ICRA
+  year: 2024
+  id: icra24
+  link: http://ieee-icra.org/
+  deadline: 2023-09-15 23:59
+  timezone: America/Los_Angeles
+  place: Yokohama, Japan
+  date: May 13 - 17, 2024
+  start: 2024-05-13
+  end: 2024-05-17
+  hindex: 116
+  sub: RO
+  full_name: IEEE International Conference on Robotics and Automation
+- title: CoNLL
+  year: 2023
+  id: conll23
+  link: https://conll.org/
+  deadline: 2023-06-30 23:59
+  timezone: UTC-12
+  place: Singapore
+  date: December 6 - 7, 2023
+  start: 2023-12-06
+  end: 2023-12-07
+  hindex: 44
+  sub: NLP
+  note: Co-located with EMNLP 2023
+  full_name: ''
+- title: AAMAS
+  year: 2024
+  id: aamas24
+  link: https://www.aamas2024-conference.auckland.ac.nz/
+  deadline: 2023-10-09 23:59
+  abstract_deadline: 2023-10-02 23:59
+  timezone: UTC-12
+  place: Auckland, New Zealand
+  date: May 6 - 10, 2024
+  start: 2024-05-06
+  end: 2024-05-10
+  sub: ML
+  note: Mandatory abstract deadline on Oct 02, 2023. More info <a href='https://www.aamas2024-conference.auckland.ac.nz/calls/call-for-papers/'>here</a>.
+  full_name: Autonomous Agents and Multiagent Systems
+- title: WACV
+  year: 2024
+  id: wacv24
+  full_name: Winter Conference on Applications of Computer Vision
+  link: https://wacv2024.thecvf.com
+  deadline: 2023-06-28 11:59
+  timezone: America/Los_Angeles
+  place: Waikoloa, Hawaii, USA
+  date: January 3 - 7, 2024
+  start: 2024-01-03
+  end: 2024-01-07
+  hindex: 76
+  sub: CV
+  note: Paper Registration is on Jun. 21st 2023; Second round submission deadline
+    on Aug. 30th 2023
+- title: ECML/PKDD
+  year: 2023
+  id: ecmlpkdd23
+  full_name: European Conference on Machine Learning and Principles and Practice of
+    Knowledge Discovery in Databases
+  link: https://2023.ecmlpkdd.org/
+  deadline: 2023-04-02 23:59
+  abstract_deadline: 2023-03-26 23:59
+  timezone: UTC-12
+  place: Torino, Italy
+  date: September 18 - 22, 2023
+  start: 2023-09-18
+  end: 2023-09-22
+  sub: SP
+  note: Check the conference website for workshop and demo deadlines
