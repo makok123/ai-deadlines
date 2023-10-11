@@ -23,7 +23,11 @@ def update_master_data_from_conferences():
                     "sub": conf.get("sub", ""),
                 }
             )
-        # todo update full name
+        else:
+            matches = [i for i in range(len(master_data)) if master_data[i]["title"].lower() == conf["title"].lower()]
+            if len(matches) == 1 and conf.get("full_name", "") != "":
+                match_idx = matches[0]
+                master_data[match_idx]["full_name"] = conf["full_name"]
     save_csv(
         csv_path_master_data,
         master_data,
