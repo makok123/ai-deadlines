@@ -3055,6 +3055,18 @@
   end: '2024-03-14'
   hindex: 55
   sub: RO
+- title: CSCS
+  year: 2023
+  id: cscs23
+  full_name: ACM Computer Science in Cars Symposium
+  link: https://acm-cscs.org/
+  deadline: 2023-10-08 23:59
+  place: Darmstadt, Germany
+  date: December 5 - 5, 2023
+  start: '2023-12-05'
+  end: '2023-12-05'
+  sub: AD
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=175506&copyownerid=164042
 - title: AAMAS
   year: 2024
   id: aamas24
@@ -3112,6 +3124,72 @@
   hindex: 38
   sub: NLP
   note: Submission via ACL Rolling Review, commitment date 2023-12-20
+- title: ICPRAM
+  year: 2024
+  id: icpram24
+  full_name: 13th International Conference on Pattern Recognition Applications and
+    Methods
+  link: https://icpram.scitevents.org
+  deadline: 2023-10-26 23:59
+  place: Lisbon, Portugal
+  date: February 24 - 26, 2024
+  start: '2024-02-24'
+  end: '2024-02-26'
+  sub: CV
+  ranking: C
+  ranking_link: http://portal.core.edu.au/conf-ranks/2230
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=176274&copyownerid=45217
+- title: VISAPP
+  year: 2024
+  id: visapp24
+  full_name: 19th International Conference on Computer Vision Theory and Applications
+  link: https://visapp.scitevents.org
+  deadline: 2023-10-26 23:59
+  place: Lisbon, Portugal
+  date: February 27 - 29, 2024
+  start: '2024-02-27'
+  end: '2024-02-29'
+  sub: CV
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=176281&copyownerid=45217
+- title: ICCPS
+  year: 2024
+  id: iccps24
+  full_name: 15th ACM/IEEE International Conference on Cyber-Physical Systems
+  link: https://iccps.acm.org/2024/
+  deadline: 2023-10-31 23:59
+  abstract_deadline: 2023-10-24 23:59
+  place: Hong Kong, China
+  date: May 13 - 16, 2024
+  start: '2024-05-13'
+  end: '2024-05-16'
+  sub: AD
+  note: 'Abstract deadline: October 24, 2023'
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=175876&copyownerid=183126
+- title: SUSTECH
+  year: 2024
+  id: sustech24
+  full_name: IEEE Conference on Technologies for Sustainability
+  link: https://ieee-sustech.org/
+  deadline: 2023-11-01 23:59
+  place: Portland, OR USA
+  date: April 14 - 17, 2024
+  start: '2024-04-14'
+  end: '2024-04-17'
+  sub: AD
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=176506&copyownerid=73906
+- title: ICARA
+  year: 2024
+  id: icara24
+  full_name: IEEE--2024 the 10th International Conference on Automation, Robotics
+    and Applications (ICARA 2024)
+  link: http://www.icara.us/
+  deadline: 2023-11-05 23:59
+  place: Athens, Greece
+  date: February 22 - 24, 2024
+  start: '2024-02-22'
+  end: '2024-02-24'
+  sub: RO
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=174058&copyownerid=13881
 - title: CVPR
   year: 2024
   id: cvpr24
@@ -3126,6 +3204,33 @@
   end: '2024-06-21'
   hindex: 389
   sub: CV
+- title: ICSA
+  year: 2024
+  id: icsa24
+  full_name: 21st IEEE International Conference on Software Architecture
+  link: https://conf.researchr.org/home/icsa-2024
+  deadline: 2023-12-01 23:59
+  abstract_deadline: 2023-11-24 23:59
+  place: Hyderabad, India
+  date: June 4 - 8, 2024
+  start: '2024-06-04'
+  end: '2024-06-08'
+  sub: AD
+  note: 'Abstract deadline: November 24, 2023'
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=175871&copyownerid=176665
+- title: ICCAR
+  year: 2024
+  id: iccar24
+  full_name: 2024 10th International Conference on Control, Automation and Robotics
+    (ICCAR 2024)
+  link: http://www.iccar.org
+  deadline: 2023-12-10 23:59
+  place: Singapore
+  date: April 27 - 29, 2024
+  start: '2024-04-27'
+  end: '2024-04-29'
+  sub: RO
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=176431&copyownerid=13881
 - title: ICAPS
   year: 2024
   id: icaps24
@@ -3141,6 +3246,21 @@
   hindex: 32
   sub: SP
   note: Mandatory abstract deadline on December 07, 2023. More info <a href='https://icaps24.icaps-conference.org/'>here</a>.
+- title: VEHITS
+  year: 2024
+  id: vehits24
+  full_name: 10th International Conference on Vehicle Technology and Intelligent Transport
+    Systems
+  link: https://vehits.scitevents.org
+  deadline: 2023-12-13 23:59
+  place: Lisbon, Portugal
+  date: May 2 - 4, 2024
+  start: '2024-05-02'
+  end: '2024-05-04'
+  sub: AD
+  ranking: C
+  ranking_link: http://portal.core.edu.au/conf-ranks/2299
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=176292&copyownerid=45217
 - title: NAACL
   year: 2024
   id: naacl24
@@ -3156,6 +3276,35 @@
   hindex: 133
   sub: NLP
   note: All submissions must be done through ARR. More info <a href='https://2024.naacl.org/calls/papers/'>here</a>.
+- title: ICCRE
+  year: 2024
+  id: iccre24
+  full_name: IEEE--2024 9th International Conference on Control and Robotics Engineering
+    (ICCRE 2024)
+  link: http://www.iccre.org
+  deadline: 2023-12-20 23:59
+  place: Osaka University, Osaka, Japan
+  date: May 10 - 12, 2024
+  start: '2024-05-10'
+  end: '2024-05-12'
+  sub: RO
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=175368&copyownerid=13881
+- title: CAI
+  year: 2024
+  id: cai24
+  full_name: IEEE Conference on Artificial Intelligence
+  link: https://ieeecai.org/2024/
+  deadline: 2023-12-20 23:59
+  abstract_deadline: 2023-12-13 23:59
+  place: Singapore
+  date: June 25 - 27, 2024
+  start: '2024-06-25'
+  end: '2024-06-27'
+  sub: ML
+  ranking: A
+  ranking_link: http://portal.core.edu.au/conf-ranks/473
+  note: 'Abstract deadline: December 13, 2023'
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=176094&copyownerid=13149
 - title: ECCV
   year: 2024
   id: eccv24
@@ -3169,3 +3318,17 @@
   hindex: 238
   sub: CV
   note: Abstract deadline on February 29, 2024. More info <a href='https://eccv2024.ecva.net/'>here</a>.
+- title: ICPR
+  year: 2024
+  id: icpr24
+  full_name: International Conference on Pattern Recognition
+  link: https://icpr2024.org/cfp.html
+  deadline: 2024-03-31 23:59
+  place: Kolkata, India
+  date: December 1 - 5, 2024
+  start: '2024-12-01'
+  end: '2024-12-05'
+  sub: ML
+  ranking: B
+  ranking_link: http://portal.core.edu.au/conf-ranks/1169
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=176322&copyownerid=118352
