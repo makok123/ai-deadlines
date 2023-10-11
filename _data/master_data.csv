@@ -55,15 +55,15 @@ bmvc,British Machine Vision Conference,BMVC,,CV
 chil,"Conference on Health, Inference, and Learning",CHIL,,ML
 acl,Annual Meeting of the Association for Computational Linguistcs and International Joint Conference on Natural Language Processing,ACL,,NLP
 icaps,International Conference on Automated Planning and Scheduling,ICAPS,,ML
-midl,,MIDL,,CV
+midl,Medical Imaging with Deep Learning,MIDL,,CV
 www,,WWW,,DM
 ismir,,ISMIR,,SP
 ismis,,ISMIS,,DM
 3dv,,3DV,,CV
 icwsm,,ICWSM,,DM
 facct,,FAccT,,ML
-iccc,,ICCC,,ML
-accv,,ACCV,,CV
+iccc,International Conference on Computational Creativity,ICCC,,ML
+accv,Asian Conference on Computer Vision,ACCV,,CV
 ijcai-ecai,International Joint Conference on Artificial Intelligence and European Conference on Artificial Intelligence,IJCAI-ECAI,,ML
 wmt,,WMT,,NLP
 coling,,COLING,,NLP
@@ -76,11 +76,11 @@ l4dc,,L4DC,,ML
 automl-conf,,AutoML-Conf,,ML
 eccv,,ECCV,,CV
 conll,,CoNLL,,NLP
-colt,,COLT,,ML
+colt,Conference on Learning Theory,COLT,,ML
 siggraphasiaconf,SIGGRAPH ASIA,SIGGRAPHASIAConf,,CV
 icmr,,ICMR,,CV
 aacl-ijcnlp,,AACL-IJCNLP,,NLP
-alt,,ALT,,ML
+alt,International Conference on Algorithmic Learning Theory,ALT,,ML
 miccai,,MICCAI,,CV
 iv,Intelligent Vehicles Symposium,IV,,AD
 ur,International Conference on Ubiquitous Robots,UR,,RO
