@@ -3204,6 +3204,8 @@
   end: '2024-06-21'
   hindex: 389
   sub: CV
+  note: Mandatory paper registration deadline on November 03, 2023 and optional supplementary
+    material deadline on November 26, 2023. More info <a href='https://cvpr.thecvf.com/Conferences/2024'>here</a>.
 - title: ICSA
   year: 2024
   id: icsa24
@@ -3305,19 +3307,90 @@
   ranking_link: http://portal.core.edu.au/conf-ranks/473
   note: 'Abstract deadline: December 13, 2023'
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=176094&copyownerid=13149
+- title: SIGIR
+  year: 2024
+  id: sigir24
+  full_name: International ACM SIGIR Conference on Research and Development in Information
+    Retrieval
+  link: https://sigir-2024.github.io
+  deadline: 2024-01-25 23:59
+  abstract_deadline: 2024-01-18 23:59
+  timezone: UTC-12
+  place: Washington D.C., USA
+  date: July 14 - 18, 2024
+  start: '2024-07-14'
+  end: '2024-07-18'
+  hindex: 66
+  sub: DM
+  note: Mandatory abstract deadline on January 18, 2024. More info <a href='https://sigir-2024.github.io/call_for_papers.html'>here</a>.
+- title: ICML
+  year: 2024
+  id: icml24
+  full_name: International Conference on Machine Learning
+  link: https://icml.cc/Conferences/2024
+  deadline: 2024-02-01 23:59
+  timezone: UTC-12
+  place: Vienna, Austria
+  date: July 21 - 27, 2024
+  start: '2024-07-21'
+  end: '2024-07-27'
+  hindex: 254
+  sub: ML
+- title: RSS
+  year: 2024
+  id: rss24
+  full_name: 'Robotics: Science and Systems'
+  link: https://roboticsconference.org/2024
+  deadline: 2024-02-02 23:59
+  timezone: UTC-12
+  place: Delft, Netherlands
+  date: July 15 - 19, 2024
+  start: '2024-07-15'
+  end: '2024-07-19'
+  hindex: 61
+  sub: RO
+  note: Optional supplementary material deadline on February 08, 2024. More info <a
+    href='https://roboticsconference.org/2024'>here</a>.
+- title: CHIL
+  year: 2024
+  id: CHIL24
+  full_name: Conference on Health, Inference, and Learning
+  link: https://www.chilconference.org/index.html
+  deadline: 2024-02-05 23:59
+  timezone: America/New_York
+  place: New York, New York
+  date: June 27 - 28, 2024
+  start: '2024-06-27'
+  end: '2024-06-28'
+  sub: ML
+  note: Please check the website for the latest updates.
 - title: ECCV
   year: 2024
   id: eccv24
   link: https://eccv2024.ecva.net/
   deadline: 2024-03-07 23:59
-  timezone: UTC-12
+  abstract_deadline: 2024-02-29 23:59
+  timezone: UTC-8
   place: Milano, Italy
   date: September 29 - October 4, 2024
   start: '2024-09-29'
   end: '2024-10-04'
   hindex: 238
   sub: CV
-  note: Abstract deadline on February 29, 2024. More info <a href='https://eccv2024.ecva.net/'>here</a>.
+  note: More info <a href='https://eccv2024.ecva.net/'>here</a>.
+- title: MICCAI
+  year: 2024
+  id: miccai2024
+  link: https://conferences.miccai.org/2024/en/
+  deadline: 2024-03-07 23:59
+  timezone: America/Los_Angeles
+  place: Marrakech, Morocco
+  date: October 6 - 10, 2024
+  start: '2024-10-06'
+  end: '2024-10-10'
+  hindex: 78
+  sub: CV
+  note: More info <a href='https://conferences.miccai.org/2024/'>here</a>.
 - title: ICPR
   year: 2024
   id: icpr24
@@ -3332,3 +3405,17 @@
   ranking: B
   ranking_link: http://portal.core.edu.au/conf-ranks/1169
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=176322&copyownerid=118352
+- title: ECAI
+  year: 2024
+  id: ecai24
+  full_name: European Conference on Artificial Intelligence
+  link: https://www.ecai2024.eu/
+  deadline: 2024-04-25 23:59
+  abstract_deadline: 2024-04-19 23:59
+  timezone: UTC-12
+  place: Santiago de Compostela, Spain
+  date: October 19 - 24, 2024
+  start: '2024-10-19'
+  end: '2024-10-24'
+  sub: ML
+  note: Mandatory abstract deadline on April 19, 2024. More info <a href='https://www.ecai2024.eu/calls/main-track'>here</a>.
