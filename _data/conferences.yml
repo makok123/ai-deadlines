@@ -2630,11 +2630,11 @@
   ranking: C
   ranking_link: http://portal.core.edu.au/conf-ranks/915
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=170596&copyownerid=138026
-- title: RECSYS
+- title: RecSys
   year: 2023
   id: recsys23
   full_name: Conference on Recommender Systems
-  link: https://recsys.acm.org/recsys23
+  link: https://recsys.acm.org/recsys23/
   deadline: 2023-04-21 23:59
   abstract_deadline: 2023-04-14 23:59
   timezone: UTC-12
@@ -2643,7 +2643,7 @@
   start: '2023-09-18'
   end: '2023-09-22'
   sub: DM
-  note: 'Abstract deadline: April 14, 2023'
+  note: Mandatory abstract deadline on April 14, 2023.
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=171978&copyownerid=179760
 - title: MM
   year: 2023
@@ -2663,8 +2663,8 @@
   year: 2023
   id: ecai23
   full_name: European Conference on Artificial Intelligence
-  link: https://ecai2023.eu/ECAI2023
-  deadline: 2023-05-02 23:59
+  link: https://ecai2023.eu/
+  deadline: 2023-05-08 23:59
   abstract_deadline: 2023-05-02 23:59
   place: Krakow, Poland
   date: September 30 - October 5, 2023
@@ -2673,7 +2673,7 @@
   sub: ML
   ranking: A
   ranking_link: http://portal.core.edu.au/conf-ranks/473
-  note: 'Abstract deadline: May 2, 2023'
+  note: Mandatory abstract deadline on May 02, 2023. More info <a href='https://ecai2023.eu/ECAI2023'>here</a>.
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=171991&copyownerid=179773
 - title: ISWC
   year: 2023
@@ -2681,6 +2681,7 @@
   full_name: International Semantic Web Conference
   link: https://iswc2023.semanticweb.org/
   deadline: 2023-05-09 23:59
+  abstract_deadline: 2023-05-02 23:59
   timezone: UTC-12
   place: Athens, Greece
   date: November 06-10, 2023
@@ -3095,20 +3096,6 @@
   end: '2024-04-01'
   sub: ML
   note: Check the website for exact conference dates.
-- title: AISTATS
-  year: 2024
-  id: aistats24
-  full_name: International Conference on Artificial Intelligence and Statistics
-  link: https://www.aistats.org/aistats2024/
-  deadline: 2023-10-13 23:59
-  timezone: UTC-12
-  place: Valencia, Spain
-  date: May 2 - 4, 2024
-  start: '2024-05-02'
-  end: '2024-05-04'
-  hindex: 91
-  sub: ML
-  note: Mandatory abstract deadline on Oct 6, 2023. More info <a href='https://aistats.org/aistats2024/dates.html'>here</a>.
 - title: EACL
   year: 2024
   id: eacl24
@@ -3124,6 +3111,20 @@
   hindex: 38
   sub: NLP
   note: Submission via ACL Rolling Review, commitment date 2023-12-20
+- title: AISTATS
+  year: 2024
+  id: aistats24
+  full_name: International Conference on Artificial Intelligence and Statistics
+  link: https://www.aistats.org/aistats2024/
+  deadline: 2023-10-16 23:59
+  timezone: UTC-12
+  place: Valencia, Spain
+  date: May 2 - 4, 2024
+  start: '2024-05-02'
+  end: '2024-05-04'
+  hindex: 91
+  sub: ML
+  note: Mandatory abstract deadline on Oct 6, 2023. More info <a href='https://aistats.org/aistats2024/dates.html'>here</a>.
 - title: ICPRAM
   year: 2024
   id: icpram24
@@ -3195,7 +3196,7 @@
   id: cvpr24
   full_name: Conference on Computer Vision and Pattern Recognition
   link: https://cvpr.thecvf.com/Conferences/2024
-  deadline: 2023-11-10 23:59
+  deadline: 2023-11-17 23:59
   abstract_deadline: 2023-11-03 23:59
   timezone: America/Los_Angeles
   place: Seattle, Washington, USA
@@ -3307,6 +3308,37 @@
   ranking_link: http://portal.core.edu.au/conf-ranks/473
   note: 'Abstract deadline: December 13, 2023'
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=176094&copyownerid=13149
+- title: IJCAI
+  year: 2024
+  id: ijcai24
+  full_name: International Joint Conference on Artificial Intelligence
+  link: https://ijcai24.org/
+  deadline: 2024-01-17 23:59
+  abstract_deadline: 2024-01-10 23:59
+  timezone: UTC-12
+  place: Jeju, South Korea
+  date: August 3 - 9, 2024
+  start: '2024-08-03'
+  end: '2024-08-09'
+  hindex: 133
+  sub: ML
+  note: Mandatory abstract deadline on January 10, 2024 and optional supplementary
+    material deadline on January 24, 2024. More info <a href='https://ijcai24.org/'>here</a>.
+- title: SIGGRAPH
+  year: 2024
+  id: siggraph24
+  full_name: International Conference & Exhibition on Computer Graphics & Interactive
+    Techniques
+  link: https://s2024.siggraph.org/
+  deadline: 2024-01-24 23:59
+  abstract_deadline: 2024-01-23 23:59
+  timezone: GMT
+  place: Denver, USA
+  date: July 28 - August 1, 2024
+  start: '2024-07-28'
+  end: '2024-08-01'
+  sub: CV
+  note: Mandatory abstract deadline on Jan 23, 2024. More info <a href='https://s2024.siggraph.org/program/technical-papers/'>here</a>.
 - title: SIGIR
   year: 2024
   id: sigir24
@@ -3364,6 +3396,56 @@
   end: '2024-06-28'
   sub: ML
   note: Please check the website for the latest updates.
+- title: KDD
+  year: 2024
+  id: kdd24
+  full_name: Knowledge Discovery and Data Mining
+  link: https://kdd2024.kdd.org/
+  deadline: 2024-02-08 23:59
+  abstract_deadline: 2024-02-01 23:59
+  timezone: UTC-12
+  place: Barcelona, Spain
+  date: August 25 - 29, 2024
+  start: '2024-08-25'
+  end: '2024-08-29'
+  sub: DM
+- title: UAI
+  year: 2024
+  id: uai24
+  full_name: Uncertainty in Artificial Intelligence
+  link: https://www.auai.org/uai2024/
+  deadline: 2024-02-09 23:59
+  timezone: UTC-12
+  place: Barcelona, Spain
+  date: July 15 - 19, 2024
+  start: '2024-07-15'
+  end: '2024-07-19'
+  sub: ML
+- title: CoLLAs
+  year: 2024
+  id: collas24
+  link: https://lifelong-ml.cc
+  deadline: 2024-02-15 23:59
+  abstract_deadline: 2024-02-09 23:59
+  timezone: UTC-12
+  place: Pisa, Italy
+  date: July 29 - August 1, 2024
+  start: '2024-07-29'
+  end: '2024-08-01'
+  sub: ML
+- title: IROS
+  year: 2024
+  id: iros24
+  full_name: International Conference on Intelligent Robots and Systems
+  link: https://iros2024-abudhabi.org/
+  deadline: 2024-03-01 23:59
+  timezone: America/Los_Angeles
+  place: Abu Dhabi, UAE
+  date: October 14 - 18, 2024
+  start: '2024-10-14'
+  end: '2024-10-18'
+  hindex: 80
+  sub: RO
 - title: ECCV
   year: 2024
   id: eccv24
