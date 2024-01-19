@@ -2236,7 +2236,7 @@
   deadline: 2023-02-01 23:59
   timezone: America/Los_Angeles
   place: Hawaii, USA
-  date: June 25-28, 2023
+  date: June 25 - 28, 2023
   start: '2023-06-25'
   end: '2023-06-28'
   hindex: 18
@@ -2291,7 +2291,7 @@
   deadline: 2023-02-03 23:59
   timezone: UTC-12
   place: Heraklion, Greece
-  date: September 20-22, 2023
+  date: September 20 - 22, 2023
   start: '2023-09-20'
   end: '2023-09-22'
   sub: AD
@@ -2319,7 +2319,7 @@
   deadline: 2023-02-07 23:59
   timezone: UTC-12
   place: Changsha, China
-  date: May 26-28, 2023
+  date: May 26 - 28, 2023
   start: '2023-05-26'
   end: '2023-05-28'
   sub: AD
@@ -2332,7 +2332,7 @@
   deadline: 2023-02-10 23:59
   timezone: UTC-8
   place: Bangalore, India
-  date: July 12-15, 2023
+  date: July 12 - 15, 2023
   start: '2023-07-12'
   end: '2023-07-15'
   hindex: 63
@@ -2369,7 +2369,7 @@
   year: 2023
   id: icip23
   full_name: International Conference on Image Processing
-  link: https://2023.ieeeicip.org
+  link: https://2023.ieeeicip.org/
   deadline: 2023-02-15 23:59
   timezone: America/Los_Angeles
   place: Kuala Lumpur, Malaysia
@@ -2405,7 +2405,7 @@
   deadline: 2023-02-17 23:59
   timezone: UTC
   place: Ontario, Canada
-  date: June 19-13, 2023
+  date: June 19 - 13, 2023
   start: '2023-06-19'
   end: '2023-06-13'
   hindex: 18
@@ -2535,6 +2535,8 @@
   start: '2023-09-12'
   end: '2023-09-15'
   hindex: 0
+  sub: ML
+  note: Mandatory abstract deadline on March 16, 2023
 - title: ECMLPKDD
   year: 2023
   id: ecml23
@@ -2557,7 +2559,7 @@
   deadline: 2023-03-30 23:59
   timezone: UTC-12
   place: Hawaii, USA
-  date: October 1-4, 2023
+  date: October 1 - 4, 2023
   start: '2023-10-01'
   end: '2023-10-04'
   hindex: 31
@@ -2666,7 +2668,8 @@
   link: https://ecai2023.eu/
   deadline: 2023-05-08 23:59
   abstract_deadline: 2023-05-02 23:59
-  place: Krakow, Poland
+  timezone: UTC-12
+  place: "Krakow, Poland"
   date: September 30 - October 5, 2023
   start: '2023-09-30'
   end: '2023-10-05'
@@ -2684,7 +2687,7 @@
   abstract_deadline: 2023-05-02 23:59
   timezone: UTC-12
   place: Athens, Greece
-  date: November 06-10, 2023
+  date: November 6 - 10, 2023
   start: '2023-11-06'
   end: '2023-11-10'
   sub: DM
@@ -2711,7 +2714,7 @@
   deadline: 2023-05-15 23:59
   timezone: UTC-12
   place: Bilbao, Spain
-  date: September 24-28, 2023
+  date: September 24 - 28, 2023
   start: '2023-09-24'
   end: '2023-09-28'
   hindex: 49
@@ -2737,7 +2740,7 @@
   deadline: 2023-05-16 23:59
   timezone: UTC-12
   place: Sydney, Australia
-  date: December, 12-15, 2023
+  date: December 12 - 15, 2023
   start: '2023-12-12'
   end: '2023-12-15'
   sub: CV
@@ -2776,7 +2779,7 @@
   deadline: 2023-06-02 23:59
   timezone: UTC-12
   place: Rome, Italy
-  date: November 13-15, 2023
+  date: November 13 - 15, 2023
   start: '2023-11-13'
   end: '2023-11-15'
   hindex: 15
@@ -3012,7 +3015,7 @@
   deadline: 2023-09-14 23:59
   timezone: UTC-12
   place: Muscat, Oman
-  date: February 05-07, 2024
+  date: February 5 - 7, 2024
   start: '2024-02-05'
   end: '2024-02-07'
   sub: AD
@@ -3085,7 +3088,7 @@
 - title: SaTML
   year: 2024
   id: satml24
-  full_name: Conference on Secure and Trustworthy Machine Learning
+  full_name: IEEE Conference on Secure and Trustworthy Machine Learning
   link: https://satml.org/
   deadline: 2023-10-11 23:59
   abstract_deadline: 2023-10-04 23:59
@@ -3433,6 +3436,21 @@
   start: '2024-07-29'
   end: '2024-08-01'
   sub: ML
+- title: ACL
+  year: 2024
+  id: acl24
+  full_name: Annual Meeting of the Association for Computational Linguistcs and International
+    Joint Conference on Natural Language Processing
+  link: https://2024.aclweb.org/
+  deadline: 2024-02-15 23:59
+  timezone: UTC-12
+  place: Bangkok, Thailand
+  date: August 11 - 16, 2024
+  start: '2024-08-11'
+  end: '2024-08-16'
+  hindex: 192
+  sub: NLP
+  note: All submissions should be done through ARR. More info <a href="https://www.aclweb.org/portal/sites/default/files/Submission%20Dates%20and%20Process%20for%20EACL_NAACL%20and%20ACL%202024-2.pdf">here</a>.
 - title: IROS
   year: 2024
   id: iros24
@@ -3487,6 +3505,20 @@
   ranking: B
   ranking_link: http://portal.core.edu.au/conf-ranks/1169
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=176322&copyownerid=118352
+- title: MM
+  year: 2024
+  id: mm24
+  full_name: ACM International Conference on Multimedia
+  link: https://2024.acmmm.org/
+  deadline: 2024-04-08 23:59
+  abstract_deadline: 2024-04-12 23:59
+  timezone: UTC-12
+  place: Melbourne, Australia
+  date: October 28 - November 1, 2024
+  start: '2024-10-28'
+  end: '2024-11-01'
+  sub: CV
+  note: Mandatory abstract deadline on April 8, 2024. More info <a href='https://2024.acmmm.org/regular-papers'>here</a>.
 - title: ECAI
   year: 2024
   id: ecai24
