@@ -3550,3 +3550,15 @@
   end: '2024-10-24'
   sub: ML
   note: Mandatory abstract deadline on April 19, 2024. More info <a href='https://www.ecai2024.eu/calls/main-track'>here</a>.
+- title: CoRL
+  year: 2024
+  id: corl24
+  full_name: Conference on Robot Learning
+  link: https://corl.org
+  deadline: 2024-06-06 23:59
+  timezone: UTC-12
+  place: Munich, Germany
+  date: November 6 - 9, 2024
+  start: '2024-11-06'
+  end: '2024-11-09'
+  sub: RO
