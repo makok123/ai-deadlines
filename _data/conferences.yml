@@ -3010,6 +3010,7 @@
   sub: ML
   note: Mandatory abstract deadline on Aug 08, 2023, and supplementary material deadline
     on Aug 18, 2023. More info <a href='https://aaai.org/aaai-conference/'>here</a>.
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=174002&copyownerid=692
 - title: WACV
   year: 2024
   id: wacv24
@@ -3038,6 +3039,7 @@
   end: '2024-04-19'
   hindex: 123
   sub: SP
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=174294&copyownerid=692
 - title: UVS-OMAN
   year: 2024
   id: uvs-oman24
@@ -3050,6 +3052,7 @@
   start: '2024-02-05'
   end: '2024-02-07'
   sub: AD
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=173418&copyownerid=181169
 - title: ICRA
   year: 2024
   id: icra24
@@ -3063,6 +3066,9 @@
   end: '2024-05-17'
   hindex: 116
   sub: RO
+  ranking: As
+  ranking_link: http://portal.core.edu.au/conf-ranks/2051
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=174069&copyownerid=106017
 - title: SDM
   year: 2024
   id: sdm24
@@ -3105,7 +3111,10 @@
   end: '2024-05-11'
   hindex: 286
   sub: ML
+  ranking: As
+  ranking_link: http://portal.core.edu.au/conf-ranks/2273
   note: Mandatory abstract deadline on September 23, 2023. More info <a href='https://iclr.cc/Conferences/2024/CallForPapers'>here</a>.
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=175423&copyownerid=169708
 - title: HRI
   year: 2024
   id: hri24
@@ -3173,12 +3182,14 @@
   hindex: 38
   sub: NLP
   note: Submission via ACL Rolling Review, commitment date 2023-12-20
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=175425&copyownerid=320
 - title: AISTATS
   year: 2024
   id: aistats24
   full_name: International Conference on Artificial Intelligence and Statistics
   link: https://www.aistats.org/aistats2024/
   deadline: 2023-10-16 23:59
+  abstract_deadline: 2023-10-06 23:59
   timezone: UTC-12
   place: Valencia, Spain
   date: May 2 - 4, 2024
@@ -3186,7 +3197,10 @@
   end: '2024-05-04'
   hindex: 91
   sub: ML
+  ranking: A
+  ranking_link: http://portal.core.edu.au/conf-ranks/913
   note: Mandatory abstract deadline on Oct 6, 2023. More info <a href='https://aistats.org/aistats2024/dates.html'>here</a>.
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=176078&copyownerid=13149
 - title: ICPRAM
   year: 2024
   id: icpram24
@@ -3267,8 +3281,11 @@
   end: '2024-06-21'
   hindex: 389
   sub: CV
+  ranking: As
+  ranking_link: http://portal.core.edu.au/conf-ranks/604
   note: Mandatory paper registration deadline on November 03, 2023 and optional supplementary
     material deadline on November 26, 2023. More info <a href='https://cvpr.thecvf.com/Conferences/2024'>here</a>.
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=175011&copyownerid=169708
 - title: ICSA
   year: 2024
   id: icsa24
@@ -3324,7 +3341,10 @@
   end: '2024-06-06'
   hindex: 32
   sub: SP
+  ranking: A
+  ranking_link: http://portal.core.edu.au/conf-ranks/919
   note: Mandatory abstract deadline on December 07, 2023. More info <a href='https://icaps24.icaps-conference.org/'>here</a>.
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=176169&copyownerid=692
 - title: VEHITS
   year: 2024
   id: vehits24
@@ -3426,8 +3446,11 @@
   end: '2024-08-09'
   hindex: 133
   sub: ML
+  ranking: As
+  ranking_link: http://portal.core.edu.au/conf-ranks/1313
   note: Mandatory abstract deadline on January 10, 2024 and optional supplementary
     material deadline on January 24, 2024. More info <a href='https://ijcai24.org/'>here</a>.
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=176727&copyownerid=177651
 - title: SIGGRAPH
   year: 2024
   id: siggraph24
@@ -3458,7 +3481,10 @@
   end: '2024-07-18'
   hindex: 66
   sub: DM
+  ranking: As
+  ranking_link: http://portal.core.edu.au/conf-ranks/29
   note: Mandatory abstract deadline on January 18, 2024. More info <a href='https://sigir-2024.github.io/call_for_papers.html'>here</a>.
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=177024&copyownerid=163282
 - title: FG
   year: 2024
   id: fg24
@@ -3486,6 +3512,9 @@
   end: '2024-07-27'
   hindex: 254
   sub: ML
+  ranking: As
+  ranking_link: http://portal.core.edu.au/conf-ranks/1121
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=176954&copyownerid=169708
 - title: IV
   year: 2024
   id: iv24
@@ -3525,6 +3554,7 @@
   sub: RO
   note: Optional supplementary material deadline on February 08, 2024. More info <a
     href='https://roboticsconference.org/2024'>here</a>.
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=176602&copyownerid=183868
 - title: CHIL
   year: 2024
   id: CHIL24
@@ -3577,6 +3607,9 @@
   start: '2024-07-15'
   end: '2024-07-19'
   sub: ML
+  ranking: A
+  ranking_link: http://portal.core.edu.au/conf-ranks/346
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=177397&copyownerid=13149
 - title: COLT
   year: 2024
   id: colt24
@@ -3879,7 +3912,10 @@
   start: '2024-10-19'
   end: '2024-10-24'
   sub: ML
+  ranking: A
+  ranking_link: http://portal.core.edu.au/conf-ranks/473
   note: Mandatory abstract deadline on April 19, 2024. More info <a href='https://www.ecai2024.eu/calls/main-track'>here</a>.
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=177303&copyownerid=13149
 - title: RECSYS
   year: 2024
   id: recsys24
