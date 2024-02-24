@@ -2686,7 +2686,7 @@
   deadline: 2023-05-08 23:59
   abstract_deadline: 2023-05-02 23:59
   timezone: UTC-12
-  place: "Krakow, Poland"
+  place: Krakow, Poland
   date: September 30 - October 5, 2023
   start: '2023-09-30'
   end: '2023-10-05'
@@ -2980,6 +2980,20 @@
   start: '2024-03-18'
   end: '2024-03-21'
   sub: CV
+- title: WSDM
+  year: 2024
+  id: wsdm24
+  full_name: 17th ACM International Conference on Web Search and Data Mining
+  link: https://www.wsdm-conference.org/2024/
+  deadline: 2023-08-10 23:59
+  place: Merida, Yucatan, Mexico
+  date: March 4 - 8, 2023
+  start: '2023-03-04'
+  end: '2023-03-08'
+  sub: DM
+  ranking: A
+  ranking_link: http://portal.core.edu.au/conf-ranks/31
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=178310&copyownerid=13149
 - title: AAAI
   year: 2024
   id: aaai24
@@ -3049,6 +3063,34 @@
   end: '2024-05-17'
   hindex: 116
   sub: RO
+- title: SDM
+  year: 2024
+  id: sdm24
+  full_name: SIAM International Conference on Data Mining
+  link: https://www.siam.org/conferences/cm/conference/sdm24
+  deadline: 2023-09-22 23:59
+  abstract_deadline: 2023-09-15 23:59
+  place: Houston, US
+  date: April 18 - 20, 2024
+  start: '2024-04-18'
+  end: '2024-04-20'
+  sub: DM
+  ranking: A
+  ranking_link: http://portal.core.edu.au/conf-ranks/31
+  note: 'Abstract deadline: September 15, 2023'
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=175602&copyownerid=168439
+- title: ALT
+  year: 2024
+  id: alt24
+  full_name: 35th Annual Conference on Algorithmic Learning Theory
+  link: http://algorithmiclearningtheory.org/alt2024/
+  deadline: 2023-09-26 23:59
+  place: San Diego, California, USA
+  date: February 25 - 28, 2024
+  start: '2024-02-25'
+  end: '2024-02-28'
+  sub: ML
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=178293&copyownerid=13149
 - title: ICLR
   year: 2024
   id: iclr24
@@ -3241,6 +3283,20 @@
   sub: AD
   note: 'Abstract deadline: November 24, 2023'
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=175871&copyownerid=176665
+- title: ESWC
+  year: 2024
+  id: eswc24
+  full_name: The 21st Extended Semantic Web Conference
+  link: https://2024.eswc-conferences.org/call-for-papers-research-track/
+  deadline: 2023-12-07 23:59
+  abstract_deadline: 2023-11-30 23:59
+  place: Hersonissos, Greece
+  date: May 26 - 30, 2024
+  start: '2024-05-26'
+  end: '2024-05-30'
+  sub: DM
+  note: 'Abstract deadline: November 30, 2023'
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=177521&copyownerid=692
 - title: ICCAR
   year: 2024
   id: iccar24
@@ -3328,6 +3384,34 @@
   ranking_link: http://portal.core.edu.au/conf-ranks/473
   note: 'Abstract deadline: December 13, 2023'
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=176094&copyownerid=13149
+- title: ICME
+  year: 2024
+  id: icme24
+  full_name: International Conference on Multimedia and Expo
+  link: https://2024.ieeeicme.org/
+  deadline: 2023-12-30 23:59
+  place: Niagara Falls, Canada
+  date: July 15 - 19, 2024
+  start: '2024-07-15'
+  end: '2024-07-19'
+  sub: CV
+  ranking: A
+  ranking_link: http://portal.core.edu.au/conf-ranks/664
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=177042&copyownerid=184336
+- title: ICDM
+  year: 2024
+  id: icdm24
+  full_name: 24th Industrial Conference on Data Mining
+  link: http://www.data-mining-forum.de
+  deadline: 2024-01-15 23:59
+  place: Dresden, Germany
+  date: July 10 - 14, 2024
+  start: '2024-07-10'
+  end: '2024-07-14'
+  sub: DM
+  ranking: As
+  ranking_link: http://portal.core.edu.au/conf-ranks/642
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=173743&copyownerid=102557
 - title: IJCAI
   year: 2024
   id: ijcai24
@@ -3375,6 +3459,20 @@
   hindex: 66
   sub: DM
   note: Mandatory abstract deadline on January 18, 2024. More info <a href='https://sigir-2024.github.io/call_for_papers.html'>here</a>.
+- title: FG
+  year: 2024
+  id: fg24
+  full_name: 18th IEEE International Conference on Automatic Face and Gesture Recognition
+  link: https://fg2024.ieee-biometrics.org/important-dates/
+  deadline: 2024-01-26 23:59
+  place: Istanbul, Turkey
+  date: May 27 - 31, 2024
+  start: '2024-05-27'
+  end: '2024-05-31'
+  sub: CV
+  ranking: B
+  ranking_link: http://portal.core.edu.au/conf-ranks/629
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=175445&copyownerid=60946
 - title: ICML
   year: 2024
   id: icml24
@@ -3388,6 +3486,30 @@
   end: '2024-07-27'
   hindex: 254
   sub: ML
+- title: IV
+  year: 2024
+  id: iv24
+  full_name: IEEE Intelligent Vehicles Symposium
+  link: https://ieee-iv.org/2024/
+  deadline: 2024-02-01 23:59
+  place: Jeju Shinhwa World, Jeju Island, Korea
+  date: June 2 - 5, 2024
+  start: '2024-06-02'
+  end: '2024-06-05'
+  sub: AD
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=176957&copyownerid=183665
+- title: UR
+  year: 2024
+  id: ur24
+  full_name: 21st International Conference on Ubiquitous Robots
+  link: https://2024.ubiquitousrobots.org
+  deadline: 2024-02-01 23:59
+  place: New York City, USA
+  date: June 24 - 27, 2024
+  start: '2024-06-24'
+  end: '2024-06-27'
+  sub: RO
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=178089&copyownerid=185241
 - title: RSS
   year: 2024
   id: rss24
@@ -3416,6 +3538,20 @@
   end: '2024-06-28'
   sub: ML
   note: Please check the website for the latest updates.
+- title: ICIP
+  year: 2024
+  id: icip24
+  full_name: International Conference on Image Processing
+  link: https://2024.ieeeicip.org/
+  deadline: 2024-02-07 23:59
+  place: Abu Dhabi, United Arab Emirates
+  date: October 27 - 30, 2024
+  start: '2024-10-27'
+  end: '2024-10-30'
+  sub: CV
+  ranking: B
+  ranking_link: http://portal.core.edu.au/conf-ranks/654
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=177043&copyownerid=184336
 - title: KDD
   year: 2024
   id: kdd24
@@ -3441,6 +3577,20 @@
   start: '2024-07-15'
   end: '2024-07-19'
   sub: ML
+- title: COLT
+  year: 2024
+  id: colt24
+  full_name: 37th Annual Conference on Learning Theory
+  link: https://learningtheory.org/colt2024/
+  deadline: 2024-02-09 23:59
+  place: Edmonton, Canada
+  date: June 30 - July 3, 2024
+  start: '2024-06-30'
+  end: '2024-07-03'
+  sub: ML
+  ranking: As
+  ranking_link: http://portal.core.edu.au/conf-ranks/124
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=178311&copyownerid=13149
 - title: CoLLAs
   year: 2024
   id: collas24
@@ -3468,6 +3618,62 @@
   hindex: 192
   sub: NLP
   note: All submissions should be done through ARR. More info <a href="https://www.aclweb.org/portal/sites/default/files/Submission%20Dates%20and%20Process%20for%20EACL_NAACL%20and%20ACL%202024-2.pdf">here</a>.
+- title: CHIL
+  year: 2024
+  id: chil24
+  full_name: 5th AHLI Conference on Health, Inference, and Learning
+  link: https://chilconference.org/
+  deadline: 2024-02-16 23:59
+  place: New York City, USA
+  date: June 27 - 28, 2024
+  start: '2024-06-27'
+  end: '2024-06-28'
+  sub: ML
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=178221&copyownerid=13149
+- title: CRV
+  year: 2024
+  id: crv24
+  full_name: 21st Conference on Robots and Vision
+  link: https://www.computerrobotvision.org/
+  deadline: 2024-02-18 23:59
+  place: Guelph, Ontario, Canada
+  date: May 27 - 31, 2024
+  start: '2024-05-27'
+  end: '2024-05-31'
+  sub: RO
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=178803&copyownerid=185744
+- title: SAFECOMP
+  year: 2024
+  id: safecomp24
+  full_name: 43rd International Conference on Computer Safety, Reliability and Security
+  link: https://www.safecomp2024.unifi.it/
+  deadline: 2024-02-18 23:59
+  abstract_deadline: 2024-02-15 23:59
+  place: Florence, Italy
+  date: September 17 - 20, 2024
+  start: '2024-09-17'
+  end: '2024-09-20'
+  sub: ML
+  ranking: B
+  ranking_link: http://portal.core.edu.au/conf-ranks/961
+  note: 'Abstract deadline: February 15, 2024'
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=177067&copyownerid=181344
+- title: ICCC
+  year: 2024
+  id: iccc24
+  full_name: 15th International Conference on Computational Creativity
+  link: https://computationalcreativity.net/iccc24/
+  deadline: 2024-02-28 23:59
+  abstract_deadline: 2024-02-21 23:59
+  place: "J\xF6nk\xF6ping, Sweden"
+  date: June 17 - 21, 2024
+  start: '2024-06-17'
+  end: '2024-06-21'
+  sub: ML
+  ranking: B
+  ranking_link: http://portal.core.edu.au/conf-ranks/942
+  note: 'Abstract deadline: February 21, 2024'
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=177243&copyownerid=184548
 - title: IROS
   year: 2024
   id: iros24
@@ -3481,6 +3687,32 @@
   end: '2024-10-18'
   hindex: 80
   sub: RO
+- title: FUSION
+  year: 2024
+  id: fusion24
+  full_name: 27th International Conference on Information Fusion
+  link: https://fusion2024.org
+  deadline: 2024-03-01 23:59
+  place: Venice, Italy
+  date: July 7 - 11, 2024
+  start: '2024-07-07'
+  end: '2024-07-11'
+  sub: CV
+  ranking: C
+  ranking_link: http://portal.core.edu.au/conf-ranks/1072
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=176826&copyownerid=184099
+- title: ICPRS
+  year: 2024
+  id: icprs24
+  full_name: 14th International Conference on Pattern Recognition Systems
+  link: http://www.icprs.org
+  deadline: 2024-03-06 23:59
+  place: London, UK
+  date: July 15 - 18, 2024
+  start: '2024-07-15'
+  end: '2024-07-18'
+  sub: CV
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=176756&copyownerid=93310
 - title: ECCV
   year: 2024
   id: eccv24
@@ -3508,6 +3740,61 @@
   hindex: 78
   sub: CV
   note: More info <a href='https://conferences.miccai.org/2024/'>here</a>.
+- title: ICRAS
+  year: 2024
+  id: icras24
+  full_name: 2024 8th International Conference on Robotics and Automation Sciences
+    (ICRAS 2024)
+  link: http://www.icras.org/
+  deadline: 2024-03-10 23:59
+  place: Tokyo,Japan
+  date: June 21 - 23, 2024
+  start: '2024-06-21'
+  end: '2024-06-23'
+  sub: RO
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=176933&copyownerid=13881
+- title: ICANN
+  year: 2024
+  id: icann24
+  full_name: 33rd International Conference on Artificial Neural Networks
+  link: https://e-nns.org/icann2024/
+  deadline: 2024-03-15 23:59
+  place: Lugano-Viganello, Switzerland
+  date: September 17 - 20, 2024
+  start: '2024-09-17'
+  end: '2024-09-20'
+  sub: ML
+  ranking: C
+  ranking_link: http://portal.core.edu.au/conf-ranks/915
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=175770&copyownerid=138026
+- title: ECML-PKDD
+  year: 2024
+  id: ecml-pkdd24
+  full_name: European Conference on Machine Learning and Principles and Practice of
+    Knowledge Discovery in Databases
+  link: https://2024.ecmlpkdd.org/
+  deadline: 2024-03-22 23:59
+  abstract_deadline: 2024-03-15 23:59
+  place: Vilnius, Lithuania
+  date: September 9 - 13, 2024
+  start: '2024-09-09'
+  end: '2024-09-13'
+  sub: ML
+  note: 'Abstract deadline: March 15, 2024'
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=175861&copyownerid=183098
+- title: PRIS
+  year: 2024
+  id: pris24
+  full_name: Hongkong | 2024 6th International Conference on Pattern Recognition and
+    Intelligent Systems (PRIS 2024)
+  link: https://2024pris.org/
+  deadline: 2024-03-30 23:59
+  place: Hongkong, China
+  date: July 25 - 27, 2024
+  start: '2024-07-25'
+  end: '2024-07-27'
+  sub: CV,RO
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=177975&copyownerid=86815
 - title: ICPR
   year: 2024
   id: icpr24
@@ -3522,6 +3809,19 @@
   ranking: B
   ranking_link: http://portal.core.edu.au/conf-ranks/1169
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=176322&copyownerid=118352
+- title: AITEST
+  year: 2024
+  id: aitest24
+  full_name: IEEE AITest 2024 The 6th IEEE International Conference on Artificial
+    Intelligence Testing
+  link: https://ieeeaitest.com/
+  deadline: 2024-04-01 23:59
+  place: Shanghai, China
+  date: July 15 - 18, 2024
+  start: '2024-07-15'
+  end: '2024-07-18'
+  sub: ML
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=178920&copyownerid=185877
 - title: MM
   year: 2024
   id: mm24
@@ -3536,6 +3836,36 @@
   end: '2024-11-01'
   sub: CV
   note: Mandatory abstract deadline on April 8, 2024. More info <a href='https://2024.acmmm.org/regular-papers'>here</a>.
+- title: SMC
+  year: 2024
+  id: smc24
+  full_name: IEEE International Conference on Systems, Man, and Cybernetics
+  link: https://www.ieeesmc2024.org/
+  deadline: 2024-04-08 23:59
+  place: Kuching, Sarawak, Malaysia
+  date: October 7 - 10, 2024
+  start: '2024-10-07'
+  end: '2024-10-10'
+  sub: AD
+  ranking: B
+  ranking_link: http://portal.core.edu.au/conf-ranks/611
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=177644&copyownerid=13149
+- title: ISWC
+  year: 2024
+  id: iswc24
+  full_name: THE 23RD INTERNATIONAL SEMANTIC WEB CONFERENCE
+  link: https://iswc2024.semanticweb.org/
+  deadline: 2024-04-17 23:59
+  abstract_deadline: 2024-04-10 23:59
+  place: Baltimore, USA
+  date: November 11 - 15, 2024
+  start: '2024-11-11'
+  end: '2024-11-15'
+  sub: DM
+  ranking: A
+  ranking_link: http://portal.core.edu.au/conf-ranks/1338
+  note: 'Abstract deadline: April 10, 2024'
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=178951&copyownerid=131243
 - title: ECAI
   year: 2024
   id: ecai24
@@ -3550,6 +3880,45 @@
   end: '2024-10-24'
   sub: ML
   note: Mandatory abstract deadline on April 19, 2024. More info <a href='https://www.ecai2024.eu/calls/main-track'>here</a>.
+- title: RECSYS
+  year: 2024
+  id: recsys24
+  full_name: Conference on Recommender Systems
+  link: https://recsys.acm.org/recsys24/
+  deadline: 2024-04-29 23:59
+  place: bari, italy
+  date: October 14 - 18, 2024
+  start: '2024-10-14'
+  end: '2024-10-18'
+  sub: DM
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=177995&copyownerid=139877
+- title: CIKM
+  year: 2024
+  id: cikm24
+  full_name: Conference on Information and Knowledge Management
+  link: http://cikm2024.org
+  deadline: 2024-05-20 23:59
+  place: Boise, ID, USA
+  date: October 21 - 25, 2024
+  start: '2024-10-21'
+  end: '2024-10-25'
+  sub: DM
+  ranking: A
+  ranking_link: http://portal.core.edu.au/conf-ranks/25
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=176626&copyownerid=183896
+- title: RCAE
+  year: 2024
+  id: rcae24
+  full_name: IEEE--2024 The 7th International Conference on Robotics, Control and
+    Automation Engineering (RCAE 2024)
+  link: http://www.rcae.net/
+  deadline: 2024-06-05 23:59
+  place: Wuhu, China
+  date: October 25 - 27, 2024
+  start: '2024-10-25'
+  end: '2024-10-27'
+  sub: RO
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=178726&copyownerid=13881
 - title: CoRL
   year: 2024
   id: corl24
@@ -3562,3 +3931,43 @@
   start: '2024-11-06'
   end: '2024-11-09'
   sub: RO
+- title: ACML
+  year: 2024
+  id: acml24
+  full_name: 16th Asian Conference on Machine Learning
+  link: https://www.acml-conf.org/2024/
+  deadline: 2024-06-26 23:59
+  place: Hanoi, Vietnam
+  date: December 5 - 7, 2024
+  start: '2024-12-05'
+  end: '2024-12-07'
+  sub: ML
+  ranking: Unranked
+  ranking_link: http://portal.core.edu.au/conf-ranks/2174
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=178237&copyownerid=13149
+- title: ICOIV
+  year: 2024
+  id: icoiv24
+  full_name: 2024 International Conference on Intelligent Vehicles (ICoIV 2024)
+  link: https://www.icoiv.org/
+  deadline: 2024-06-26 23:59
+  place: Xi'an, China
+  date: September 27 - 29, 2024
+  start: '2024-09-27'
+  end: '2024-09-29'
+  sub: AD
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=86343&copyownerid=139659
+- title: ICMLA
+  year: 2024
+  id: icmla24
+  full_name: 23rd International Conference on Machine Learning and Applications
+  link: https://www.icmla-conference.org/icmla24/
+  deadline: 2024-07-31 23:59
+  place: Miami, Florida
+  date: December 18 - 20, 2024
+  start: '2024-12-18'
+  end: '2024-12-20'
+  sub: APL
+  ranking: C
+  ranking_link: http://portal.core.edu.au/conf-ranks/1122
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=177890&copyownerid=13149
