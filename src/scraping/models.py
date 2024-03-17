@@ -114,6 +114,8 @@ class ConferenceDeadline:
                         d = None
                         pass
                 self.__dict__[key] = d
+        if self.timezone is not None:
+            self.timezone = self.timezone.replace("GMT", "UTC")
         if self.start is None or self.end is None:
             self.start, self.end = parse_date_range(self.date)
         if self.ranking not in ["A*", "A", "B", "C"]:

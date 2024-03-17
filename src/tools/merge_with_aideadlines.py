@@ -23,7 +23,7 @@ def update_data_with_ai_deadlines_data():
                 conf_data["full_name"] = master_data_match["full_name"]
                 deadlines_info[conf_id] = conf_data
         else:  # conf exists -> overwrite data if mismatch
-            conf_match = deadlines_info.get(conf_id)
+            conf_match = deadlines_info.get(conf_id, {})
             for key, val in conf_data.items():
                 match_key = (
                     key if key != "long" else "full_name"
