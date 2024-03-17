@@ -3459,7 +3459,7 @@
   link: https://s2024.siggraph.org/
   deadline: 2024-01-24 23:59
   abstract_deadline: 2024-01-23 23:59
-  timezone: GMT
+  timezone: UTC
   place: Denver, USA
   date: July 28 - August 1, 2024
   start: '2024-07-28'
@@ -3800,6 +3800,20 @@
   ranking: C
   ranking_link: http://portal.core.edu.au/conf-ranks/915
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=175770&copyownerid=138026
+- title: ICPR
+  year: 2024
+  id: icpr24
+  full_name: International Conference on Pattern Recognition
+  link: https://icpr2024.org/cfp.html
+  deadline: 2024-03-20 23:59
+  place: Kolkata, India
+  date: December 1 - 5, 2024
+  start: '2024-12-01'
+  end: '2024-12-05'
+  sub: ML
+  ranking: B
+  ranking_link: http://portal.core.edu.au/conf-ranks/1169
+  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=176322&copyownerid=118352
 - title: ECML-PKDD
   year: 2024
   id: ecml-pkdd24
@@ -3828,20 +3842,6 @@
   end: '2024-07-27'
   sub: CV,RO
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=177975&copyownerid=86815
-- title: ICPR
-  year: 2024
-  id: icpr24
-  full_name: International Conference on Pattern Recognition
-  link: https://icpr2024.org/cfp.html
-  deadline: 2024-03-20 23:59
-  place: Kolkata, India
-  date: December 1 - 5, 2024
-  start: '2024-12-01'
-  end: '2024-12-05'
-  sub: ML
-  ranking: B
-  ranking_link: http://portal.core.edu.au/conf-ranks/1169
-  wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=176322&copyownerid=118352
 - title: AITEST
   year: 2024
   id: aitest24
@@ -3942,6 +3942,20 @@
   ranking: A
   ranking_link: http://portal.core.edu.au/conf-ranks/25
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=176626&copyownerid=183896
+- title: NeurIPS
+  year: 2024
+  id: neurips24
+  full_name: Conference on Neural Information Processing Systems
+  link: https://nips.cc/Conferences/2024
+  deadline: 2024-05-22 23:59
+  abstract_deadline: 2024-05-15 23:59
+  timezone: UTC
+  place: Vancouver, Canada
+  date: December 9 - 15, 2023
+  start: '2024-12-09'
+  end: '2023-12-15'
+  sub: ML
+  note: Mandatory abstract deadline on May 15, 2024
 - title: RCAE
   year: 2024
   id: rcae24
