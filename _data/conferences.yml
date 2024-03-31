@@ -2107,6 +2107,7 @@
   full_name: Special Interest Group on Computer Graphics and Interactive Techniques
   link: https://s2023.siggraph.org/
   deadline: 2023-01-24 23:59
+  abstract_deadline: 2022-01-25 23:59
   timezone: UTC
   place: Los Angeles, USA
   date: August 6 - 10, 2023
@@ -3555,19 +3556,6 @@
   note: Optional supplementary material deadline on February 08, 2024. More info <a
     href='https://roboticsconference.org/2024'>here</a>.
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=176602&copyownerid=183868
-- title: CHIL
-  year: 2024
-  id: CHIL24
-  full_name: Conference on Health, Inference, and Learning
-  link: https://www.chilconference.org/index.html
-  deadline: 2024-02-05 23:59
-  timezone: America/New_York
-  place: New York, New York
-  date: June 27 - 28, 2024
-  start: '2024-06-27'
-  end: '2024-06-28'
-  sub: ML
-  note: Please check the website for the latest updates.
 - title: ICIP
   year: 2024
   id: icip24
@@ -3651,6 +3639,19 @@
   hindex: 192
   sub: NLP
   note: All submissions should be done through ARR. More info <a href="https://www.aclweb.org/portal/sites/default/files/Submission%20Dates%20and%20Process%20for%20EACL_NAACL%20and%20ACL%202024-2.pdf">here</a>.
+- title: CHIL
+  year: 2024
+  id: CHIL24
+  full_name: Conference on Health, Inference, and Learning
+  link: https://www.chilconference.org/index.html
+  deadline: 2024-02-16 23:59
+  timezone: UTC-12
+  place: New York, New York
+  date: June 27 - 28, 2024
+  start: '2024-06-27'
+  end: '2024-06-28'
+  sub: ML
+  note: Please check the website for the latest updates.
 - title: CHIL
   year: 2024
   id: chil24
@@ -3981,6 +3982,19 @@
   start: '2024-11-06'
   end: '2024-11-09'
   sub: RO
+- title: EMNLP
+  year: 2024
+  id: emnlp24
+  full_name: Empirical Methods in Natural Language Processing
+  link: https://2024.emnlp.org/
+  deadline: 2024-06-15 23:59
+  timezone: UTC-12
+  place: Miami, Florida, USA
+  date: November 12 - 16, 2024
+  start: '2024-11-12'
+  end: '2024-11-16'
+  sub: NLP
+  note: More info <a href='https://2024.emnlp.org/calls/main_conference_papers/'>here</a>.
 - title: ACML
   year: 2024
   id: acml24
