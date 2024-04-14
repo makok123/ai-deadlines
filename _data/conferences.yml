@@ -1,3 +1,18 @@
+- title: ICPR
+  year: 2024
+  id: icpr2024
+  full_name: International Conference on Pattern Recognition
+  link: https://icpr2024.org/
+  deadline: 2024-04-17 23:59
+  abstract_deadline: 2024-04-10 23:59
+  timezone: PST
+  place: Kolkata, India
+  date: December, 1-5, 2024
+  start: 2024-12-01
+  end: 2024-12-05
+  sub: ['CV', 'ML']
+  note: Important
+
 - title: EMNLP
   year: 2024
   id: emnlp24
@@ -8,7 +23,7 @@
   date: November 12-16, 2024
   start: 2024-11-12
   end: 2024-11-16
-  sub: NLP
+  sub: ML
   note: More info <a href='https://2024.emnlp.org/calls/main_conference_papers/'>here</a>.
 
 - title: CIKM
