@@ -1,3 +1,15 @@
+- title: ICDM
+  year: 2024
+  id: ICDM2024
+  link: https://icdm2024.org/
+  deadline: 2024-05-14 23:59
+  timezone: America/New_York
+  place: Abu Dhabi, UAE
+  date: December  9-12, 2024
+  start: '2024-12-09'
+  end: '2024-12-12'
+  paperslink: https://icdm2024.org/call_for_papers/
+  sub: DM
 - title: ALT
   year: 2020
   id: alt20
